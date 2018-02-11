@@ -8,4 +8,4 @@ I'm happy to share what I can, because I'm in it for the love of programming.
 * Javacript
 * Angular
 * Mysql
-
+* CSS
